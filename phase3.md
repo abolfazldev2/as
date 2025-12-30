@@ -37,30 +37,10 @@
 
 ---
 
-## ساختار منوها
-ساختار کلی منوهای فاز ۳ به شکل زیر است:
-
-Manage OVS
-├── Show bridges
-├── Bridge management
-│ ├── Create bridge
-│ └── Delete bridge
-├── Port management
-│ ├── Add port to bridge
-│ ├── Remove port from bridge
-│ ├── Enable port
-│ └── Disable port
-├── VLAN port mode (Access / Trunk)
-│ ├── Set access VLAN on port
-│ └── Set trunk VLANs on port
-└── VLAN interface management
-├── Create VLAN interface
-├── Assign IP to VLAN interface
-├── Remove IP from VLAN interface
-└── Delete VLAN interface
 
 
----
+
+
 
 ## توضیح مفاهیم
 
